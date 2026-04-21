@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(py --version)",
-      "Bash(py src/1_train_models.py)",
-      "Bash(py src/2_test_example_emails.py)"
-    ]
-  }
-}
