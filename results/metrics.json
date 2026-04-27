@@ -1,0 +1,20 @@
+{
+  "SVM": {
+    "accuracy": 0.965388,
+    "precision": 0.941099,
+    "recall": 0.97264,
+    "f1": 0.956609
+  },
+  "Random Forest": {
+    "accuracy": 0.959217,
+    "precision": 0.931489,
+    "recall": 0.967168,
+    "f1": 0.948993
+  },
+  "XGBoost": {
+    "accuracy": 0.957338,
+    "precision": 0.926654,
+    "recall": 0.967852,
+    "f1": 0.946805
+  }
+}
