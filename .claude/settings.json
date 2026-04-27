@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "PowerShell($py = \"C:\\\\Users\\\\Muhammad Alami\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python312\\\\python.exe\"; Set-Location \"c:\\\\UNCC Masters\\\\phishing_project_MA\"; & $py src/train_rf.py)"
-    ]
-  }
-}
